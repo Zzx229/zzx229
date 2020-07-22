@@ -1,4 +1,9 @@
-### Hi there 👋
+### emm,主要更新轻小说的阅读.
+一个人更太慢了，希望大家支持一下
+
+### [86](86/86第一卷上/README.md)
+
+
 
 <!--
 **Zzx229/zzx229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
