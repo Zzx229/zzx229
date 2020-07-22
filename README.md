@@ -3,7 +3,7 @@
 
 ### 86
 
-- [86](86/86第一卷上/README.md)
+- [86]https://github.com/Zzx229/86
 
 
 
